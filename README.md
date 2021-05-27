@@ -1,16 +1,16 @@
-### Hi there 👋
+### Olá!/ Hi there 👋
 
-<!--
-**samyrarocha/SamyraRocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BR
+Olá!, meu nome é Samyra Rocha, engenheira química desbravando o mundo do android mobile com kotlin!
 
-Here are some ideas to get you started:
+- 😄 28 anos, engenheira química e pós graduada em administração de empresas
+- 🌱 Estudando kotlin e entrando para o mercado mobile
+- 💬 Siga-me nas redes sociais e vamos conversar e nos conhecer!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+EN
+Hello! My name is Samyra Rocha, I'm a chemical engineer discovering the android world with kotlin!
+
+- 😄 28 years old, chemical engineer and speciallist in business management
+- 🌱 Studying kotlin and entering in android market
+- 💬 Follow me on social media, let's talk and know each other!
 -->
