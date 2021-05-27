@@ -1,4 +1,7 @@
-https://www.canva.com/design/DAEfoJNp5nY/gcNsNb00pVhM0ahns5aEjA/view?utm_content=DAEfoJNp5nY&utm_campaign=designshare&utm_medium=link&utm_source=viewer
+<img src="SamyraRocha.gif" width="2000">
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sandyara-peres-876313119/)](http://www.linkedin.com/in/samyra-rocha-634668b7)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lgdbittencourt)](https://twitter.com/semmyra)
 
 ### Olá!/ Hi there 👋
 
