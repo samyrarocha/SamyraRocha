@@ -1,4 +1,4 @@
-<img src="SamyraRocha.gif" width="2000"></h2>
+<img src="SamyraRocha.gif" width="700" height="700"/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sandyara-peres-876313119/)](http://www.linkedin.com/in/samyra-rocha-634668b7)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lgdbittencourt)](https://twitter.com/semmyra)
